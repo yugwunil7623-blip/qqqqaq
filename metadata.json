@@ -1,0 +1,7 @@
+{
+  "name": "타자 마스터 (TypeMaster)",
+  "description": "한글/영어 타자 연습, 고전 산성비 아케이드 게임, 타자 실력 측정 및 Gemini AI 코치와 함께하는 종합 타자 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
